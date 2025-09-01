@@ -2,6 +2,8 @@
 
 Hi, I'm **Gabriel Scofield** 👋  
 
+Majoring in Bioengineering at the University of Washington | Minoring in Italian language and culture
+
 I'm a passionate coder, tech enthusiast, and creative tinkerer with a strong interest in robotics, AI, and hardware projects. I love building things that are interactive, fun, and sometimes a little whimsical—like my wall-mounted talking fish designed to grow as an engineer and have fun along the way.
 
 ---
